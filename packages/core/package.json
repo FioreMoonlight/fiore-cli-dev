@@ -1,6 +1,6 @@
 {
   "name": "@fiore-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fiore-cli-dev core",
   "author": "fiore <1540594817@qq.com>",
   "homepage": "",
@@ -22,5 +22,8 @@
   "dependencies": {
     "@fiore-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "eb72fee1b3c55761a101f65d1a33ca4330f4ea1f"
+  "gitHead": "eb72fee1b3c55761a101f65d1a33ca4330f4ea1f",
+  "publishConfig": {
+    "access": "public"
+  }
 }

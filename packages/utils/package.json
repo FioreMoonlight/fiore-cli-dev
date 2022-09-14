@@ -1,6 +1,6 @@
 {
   "name": "@fiore-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "fiore-cli-dev utils",
   "author": "fiore <1540594817@qq.com>",
   "homepage": "",
@@ -16,5 +16,8 @@
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
   },
-  "gitHead": "eb72fee1b3c55761a101f65d1a33ca4330f4ea1f"
+  "gitHead": "eb72fee1b3c55761a101f65d1a33ca4330f4ea1f",
+  "publishConfig": {
+    "access": "public"
+  }
 }
