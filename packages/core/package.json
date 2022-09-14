@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin":{
+    "fiore-cli-dev":"bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,5 @@
   "dependencies": {
     "@fiore-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "4f950684cc24a949dc93c0773b9de77152effade"
+  "gitHead": "05901c9b485dc369bf8bc5ad281ec16c7d468798"
 }
