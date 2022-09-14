@@ -1,6 +1,6 @@
 {
   "name": "@fiore-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "fiore-cli-dev core",
   "author": "fiore <1540594817@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@fiore-cli-dev/utils": "^1.0.3"
+    "@fiore-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "eb72fee1b3c55761a101f65d1a33ca4330f4ea1f",
   "publishConfig": {
