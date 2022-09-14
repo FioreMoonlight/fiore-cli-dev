@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@fiore-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "4f950684cc24a949dc93c0773b9de77152effade"
 }
