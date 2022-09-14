@@ -1,2 +1,2 @@
 #! /user/bin/env node
-console.log('hello im fiore')
+console.log('hello im fiore!!!')
