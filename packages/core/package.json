@@ -1,13 +1,13 @@
 {
   "name": "@fiore-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fiore-cli-dev core",
   "author": "fiore <1540594817@qq.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "fiore-cli-dev":"bin/index.js"
+  "bin": {
+    "fiore-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
