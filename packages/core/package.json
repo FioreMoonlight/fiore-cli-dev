@@ -1,0 +1,22 @@
+{
+  "name": "@fiore-cli-dev/core",
+  "version": "1.0.0",
+  "description": "fiore-cli-dev core",
+  "author": "fiore <1540594817@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"run testing from core\""
+  },
+  "dependencies": {
+    "@fiore-cli-dev/utils": "^1.0.0"
+  }
+}
