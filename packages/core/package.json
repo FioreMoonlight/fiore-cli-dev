@@ -20,6 +20,9 @@
     "test": "echo \"run testing from core\""
   },
   "dependencies": {
-    "@fiore-cli-dev/utils": "^1.0.1"
+    "@fiore-cli-dev/utils": "^1.0.3"
+  },
+   "publishConfig": {
+    "access": "public"
   }
 }
